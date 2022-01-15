@@ -1,6 +1,6 @@
 - 👋 Hi, I am UdayKumar Kalluri
 - 👀 I’m interested in Coding and learning the new technologies
-- 🌱 I’m currently learning the new concepts in Micro services 
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please reach out to me  udayappdeveloper@gmail.com
 
